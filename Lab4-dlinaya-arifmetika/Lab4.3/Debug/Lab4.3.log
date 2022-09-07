@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\vovak\source\repos\Lab4.3\Lab4.3\main.cpp(185,49): warning C4244: аргумент: преобразование "__int64" в "size_t", возможна потеря данных
+C:\Users\vovak\source\repos\Lab4.3\Lab4.3\main.cpp(200,15): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\vovak\source\repos\Lab4.3\Lab4.3\main.cpp(51,9): warning C4101: next: неиспользованная локальная переменная
+C:\Users\vovak\source\repos\Lab4.3\Lab4.3\main.cpp(52,10): warning C4101: temp1: неиспользованная локальная переменная
+  Lab4.3.vcxproj -> C:\Users\vovak\source\repos\Lab4.3\Debug\Lab4.3.exe
